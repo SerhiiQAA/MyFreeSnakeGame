@@ -32,7 +32,7 @@ If you enjoy the game, consider supporting its development! Click the "Sponsor" 
 
 ## 📜 License
 
-[Add your license information here, e.g., "All rights reserved. For personal use only." or a link to your LICENSE file if you created one.]
+"All rights reserved. For personal use only." or a link to your LICENSE file if you created one.
 
 ---
-*Developed with passion by [Your GitHub Username/Name]*
+*Developed with passion by SerhiiQAA*
