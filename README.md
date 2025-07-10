@@ -25,7 +25,7 @@ This game was developed using:
 
 This repository provides the compiled Android application (`.apk`) for easy installation. The source code for "My Awesome Snake Game" is proprietary and not publicly available.
 
---
+---
 ## 💖 Support the Project
 
 If you enjoy my mobile projects like MyFreeSnakeGame — consider supporting their development 🙌
