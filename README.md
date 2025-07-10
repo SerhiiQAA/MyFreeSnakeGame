@@ -27,7 +27,11 @@ This repository provides the compiled Android application (`.apk`) for easy inst
 
 ## 💖 Support the Project
 
-If you enjoy the game, consider supporting its development! Click the "Sponsor" button at the top of this repository for donation options.
+If you enjoy my mobile projects like MyFreeSnakeGame — consider supporting their development 🙌
+
+👉 [Donate via Monobank](https://send.monobank.ua/jar/6mVCH3drmi)
+
+💬 You can leave a comment with the game you're supporting!
 
 ## 📜 License
 
