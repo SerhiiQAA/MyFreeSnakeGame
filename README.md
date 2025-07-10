@@ -17,6 +17,8 @@ Download the latest version of "My Awesome Snake Game" from our [GitHub Releases
 * **Progressive difficulty:** As you grow, the game becomes more challenging.
 * **High score tracking:** Beat your personal best!
 * **Clean & minimalist design:** Focus on the gameplay without distractions.
+* **Offline Access:** Learn and play anytime, anywhere, without the need for an internet connection.
+* **No intrusive advertising**
 
 ---
 
