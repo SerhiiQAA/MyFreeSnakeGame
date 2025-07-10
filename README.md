@@ -35,7 +35,7 @@ If you enjoy my mobile projects like MyFreeSnakeGame — consider supporting the
 
 ## 📜 License
 
-"All rights reserved. For personal use only." or a link to your LICENSE file if you created one.
+"All rights reserved. For personal use only."
 
 ---
 *Developed with passion by SerhiiQAA*
