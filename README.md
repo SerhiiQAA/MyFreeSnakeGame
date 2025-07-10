@@ -6,6 +6,8 @@ A classic Snake game for Android, reimagined with modern controls and a clean de
 
 Download the latest version of "My Awesome Snake Game" from our [GitHub Releases page](https://github.com/SerhiiQAA/MyFreeSnakeGame/releases).
 
+---
+
 ## ✨ Features
 
 * **Classic Snake gameplay:** Enjoy the timeless mechanics of the beloved Snake game.
@@ -14,6 +16,8 @@ Download the latest version of "My Awesome Snake Game" from our [GitHub Releases
 * **High score tracking:** Beat your personal best!
 * **Clean & minimalist design:** Focus on the gameplay without distractions.
 
+---
+
 ## 🛠️ Technologies Used
 
 This game was developed using:
@@ -21,11 +25,14 @@ This game was developed using:
 * **Kotlin:** A modern, concise, and safe programming language for Android development.
 * **Android Canvas API:** For custom 2D graphics rendering, providing a smooth and responsive visual experience.
 
+---
+
 ## ℹ️ Important Note
 
 This repository provides the compiled Android application (`.apk`) for easy installation. The source code for "My Awesome Snake Game" is proprietary and not publicly available.
 
 ---
+
 ## 💖 Support the Project
 
 If you enjoy my mobile projects like MyFreeSnakeGame — consider supporting their development 🙌
@@ -34,9 +41,12 @@ If you enjoy my mobile projects like MyFreeSnakeGame — consider supporting the
 
 💬 You can leave a comment with the game you're supporting!
 
+---
+
 ## 📜 License
 
 "All rights reserved. For personal use only."
 
 ---
+
 *Developed with passion by SerhiiQAA*
