@@ -33,7 +33,13 @@ This game was developed using:
 
 ## ℹ️ Important Note
 
-This repository provides the compiled Android application (`.apk`) for easy installation. The source code for "My Awesome Snake Game" is proprietary and not publicly available.
+ℹ️ Important Note
+
+This repository provides ready-to-install Android applications (.apk files).
+
+* **Please be aware:** Since these APK files aren't downloaded from the Google Play Store, you'll likely need to enable "Install from unknown sources" in your device's settings. You do this at your own risk. We recommend disabling this option immediately after the application is installed.
+
+The source code for these applications is proprietary and not publicly available.
 
 ---
 
