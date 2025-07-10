@@ -2,6 +2,8 @@
 
 A classic Snake game for Android, reimagined with modern controls and a clean design. Challenge your reflexes and aim for the highest score!
 
+---
+
 ## 🚀 Get the Game
 
 Download the latest version of "My Awesome Snake Game" from our [GitHub Releases page](https://github.com/SerhiiQAA/MyFreeSnakeGame/releases).
