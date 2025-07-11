@@ -1,4 +1,4 @@
-# MyFreeSnakeGame
+# 📱 MyFreeSnakeGame
 
 A classic Snake game for Android, reimagined with modern controls and a clean design. Challenge your reflexes and aim for the highest score!
 
