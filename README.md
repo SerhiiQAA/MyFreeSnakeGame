@@ -1,4 +1,4 @@
-# 📱 MyFreeSnakeGame
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MyFreeSnakeGame+%F0%9F%93%B1)](https://git.io/typing-svg)
 
 A classic Snake game for Android, reimagined with modern controls and a clean design. Challenge your reflexes and aim for the highest score!
 
@@ -58,5 +58,4 @@ If you enjoy my mobile projects like MyFreeSnakeGame — consider supporting the
 "All rights reserved. For personal use only."
 
 ---
-
-*Developed with passion by SerhiiQAA*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developed+with+passion+by+SerhiiQAA)](https://git.io/typing-svg)
